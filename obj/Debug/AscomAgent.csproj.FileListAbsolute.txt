@@ -1,0 +1,9 @@
+C:\Workspace\AscomAgent\bin\Debug\AscomAgent.exe.config
+C:\Workspace\AscomAgent\bin\Debug\AscomAgent.exe
+C:\Workspace\AscomAgent\bin\Debug\AscomAgent.pdb
+C:\Workspace\AscomAgent\obj\Debug\AscomAgent.csprojResolveAssemblyReference.cache
+C:\Workspace\AscomAgent\obj\Debug\AscomAgent.frmMain.resources
+C:\Workspace\AscomAgent\obj\Debug\AscomAgent.Properties.Resources.resources
+C:\Workspace\AscomAgent\obj\Debug\AscomAgent.csproj.GenerateResource.Cache
+C:\Workspace\AscomAgent\obj\Debug\AscomAgent.exe
+C:\Workspace\AscomAgent\obj\Debug\AscomAgent.pdb
